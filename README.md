@@ -2,7 +2,7 @@
 
 ## 1. Hafta => Gerçek hayatla ilişkilendirilmiş programlamaya giriş, JAVA Temelleri, değişkenler, şart blokları, döngüler, diziler
 
-## 2. Hafta => Gerçek hayatla ilişkilendirilmiş oop giriş
+## 2. Hafta => Nesne yönelimli programlamaya giriş (OOP)
 
 
 
